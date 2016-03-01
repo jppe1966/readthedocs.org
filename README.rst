@@ -3,8 +3,8 @@ Welcome to Read The Docs
 
 |build-status| |docs|
 
-Purpose
--------
+PROPÓSITO
+---------
 
 `Read the Docs`_ hosts documentation for the open source community. It supports
 Sphinx_ docs written with reStructuredText_, and can pull from your Subversion_,
